@@ -1,4 +1,4 @@
-﻿let rec recursionTest x =
-    recursionTest x
+﻿let rec myRecursion x =
+    myRecursion x
 
-recursionTest 1
+myRecursion 1
